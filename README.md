@@ -1,2 +1,4 @@
-# digital_resume
-A Digital Resume of my own using Python
+# Digital Resume
+A Digital Resume of my own using Python.
+
+This is deveoped using Python and Streamlit Framework.
